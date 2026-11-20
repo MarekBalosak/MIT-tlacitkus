@@ -7,6 +7,7 @@
     * maximuje
     * tlačítkuje
     * je to fakt hustý
+    * mega moc
 
 
 ## Schéma zapojení
