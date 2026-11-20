@@ -6,6 +6,7 @@
     * tlačí
     * maximuje
     * tlačítkuje
+    * je to fakt hustý
 
 
 ## Schéma zapojení
