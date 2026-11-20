@@ -2,10 +2,10 @@
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* tlačítkus maximus
+    * tlačí
+    * maximuje
+    * tlačítkuje
 
 
 ## Schéma zapojení
@@ -14,12 +14,12 @@
 
 ## Popis funkce
 
-1. ono se to
-2. samo se to
+1. ono se to (vskutku)
+2. samo se to (opravdu)
 
 ## ToDo
 
-* ještě chybí tamto
+* ještě chybí tamto (stále chybí)
 
 ## Zhodnocení
 
